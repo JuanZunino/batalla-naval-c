@@ -19,6 +19,6 @@ Para este desarrollo, nos enfocamos en:
 - Algoritmos de validación: Lógica compleja para la colocación de barcos evitando colisiones y desbordamientos de matriz.
 
 ## Instalación y Ejecución
-Clonar el repositorio: git clone https://github.com/JuanZunino/batalla-naval-c
-Compilar: gcc main.c -o batalla_naval
-Ejecutar: ./batalla_naval
+- Clonar el repositorio: git clone https://github.com/JuanZunino/batalla-naval-c
+- Compilar: gcc main.c -o batalla_naval
+- Ejecutar: ./batalla_naval
